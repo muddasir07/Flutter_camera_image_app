@@ -173,7 +173,7 @@ class _HomeScreenState extends State<HomeScreen> {
       setState(() {
         imageFile = File(croppedFile.path);
       });
-      // reload();
+
     }
   }
 }
